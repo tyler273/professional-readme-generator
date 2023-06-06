@@ -1,10 +1,10 @@
-# l
+# Professional Readme Generator
 
-  ### [![Apache License 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  ### [![Eclipse Public License 1.0](https://img.shields.io/badge/License-EPL_1.0-red.svg)](https://opensource.org/licenses/EPL-1.0)
 
 ## Project Description
 
-l
+An application that creates readme markdown files based on user input from the command line terminal prompts
 
 ### Table of Contents
 
@@ -22,29 +22,29 @@ l
 
 ## Installation
 
-l
+npm i
 
 ## Usage Information
 
-l
+N/A
 
 ## Contribution Guidelines
 
-l
+N/A
 
 ## Test Instructions
 
-l
+N/A
 
 ## License
 
-Apache License 2.0
+Eclipse Public License 1.0
 
 ## Questions
 
 
 ### You can reach me here:
 
- - [Click here to email me](mailto:no@no.com)
+ - [Click here to email me](mailto:t.woods95@aol.com)
 
- - [Click here to visit my Github](https://github.com/user)
+ - [Click here to visit my Github](https://github.com/tyler273)
