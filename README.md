@@ -1,4 +1,4 @@
-# Professional ReadME Generator
+# Professional ReadMe Generator
 
 ## Description
 
