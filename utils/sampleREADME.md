@@ -47,4 +47,4 @@ Apache License 2.0
 
  - [Click here to email me](mailto:no@no.com)
 
- - [Click here to visit my Github](https://github.com/no)
+ - [Click here to visit my Github](https://github.com/user)
