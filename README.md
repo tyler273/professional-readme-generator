@@ -8,7 +8,7 @@ The goal of this project was to create a command-line application that dynamical
 
 Upon initilization the application the user must simply answer the questions in the console and a readME markdown file will be generated!
 
-https://drive.google.com/file/d/1g7NIReYd4LBmVgiHTXVcecMIakVrEcPS/view?usp=sharing
+[Click here for video](https://drive.google.com/file/d/1g7NIReYd4LBmVgiHTXVcecMIakVrEcPS/view?usp=sharing)
 
 ## Credits
 
