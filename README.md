@@ -1,5 +1,7 @@
 # Professional ReadMe Generator
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 ## Description
 
 The goal of this project was to create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package and Node.js.
